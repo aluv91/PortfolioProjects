@@ -2,7 +2,7 @@
 
         UFO Sightings Finalise Cleaning Data (SEMI-CLEANED IN EXCEL)
 
-    I came across this data on a for beginners' Kaggle page and expected it
+    I came across this data on a 'for beginners' Kaggle page and expected it
 	to be a straightforward data cleaning task; however, it quickly evolved
 	into a complex challenge that pushed me beyond my comfort zone. I was
 	determined to make sense of this dataset, ultimately progressing
