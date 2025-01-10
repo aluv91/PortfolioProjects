@@ -8,9 +8,8 @@
 	determined to make sense of this dataset, ultimately progressing
 	from fixing simple errors to performing extensive standardization processes,
 	handling missing values, and creating clean, usable datasets. Overall, I
-	enjoyed cleaning this dataset; it was a great hands-on way to learn SQL and
-	data cleaning fundamentals. (Disclaimer: AI was used to help me learn
-	SQL functions and understand how to write queries like syntax, order of operations, etc).
+	enjoyed organising and cleaning this dataset; it was a great hands-on way to become
+        familiar with SQL.
 
 	                            --Breakdown of Method--
 	
