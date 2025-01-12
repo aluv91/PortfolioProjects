@@ -9,7 +9,7 @@
 	from fixing simple errors to performing extensive standardization processes,
 	handling missing values, and creating clean, usable datasets. Overall, I
 	enjoyed organising and cleaning this dataset; it was a great hands-on way to become
-        familiar with SQL.
+        somewhat familiar with SQL.
 
 	                            --Breakdown of Method--
 	
